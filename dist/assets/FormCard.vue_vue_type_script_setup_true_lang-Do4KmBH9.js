@@ -1,0 +1,1 @@
+import{d as o,D as r,J as s,G as t}from"./index-DOlRqxSr.js";const a={class:"p-4 bg-white rounded"},c=o({name:"FormCard",__name:"FormCard",setup(n){return(e,d)=>(t(),r("div",a,[s(e.$slots,"default")]))}});export{c as _};

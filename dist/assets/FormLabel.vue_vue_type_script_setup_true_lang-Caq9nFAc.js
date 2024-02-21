@@ -1,0 +1,1 @@
+import{d as t,D as a,I as o,G as s}from"./index-DOlRqxSr.js";const n={class:"mb-2 text-sm text-gray-600 select-none"},c=t({name:"FormLabel",__name:"FormLabel",props:{label:{default:""}},setup(r){return(e,l)=>(s(),a("div",n,o(e.label),1))}});export{c as _};
