@@ -1,1 +1,0 @@
-import{d as o,j as r,v as s,m as t}from"./index-CodmDoAG.js";const a={class:"p-4 bg-white rounded"},_=o({name:"FormCard",__name:"FormCard",setup(n){return(e,d)=>(t(),r("div",a,[s(e.$slots,"default")]))}});export{_};
