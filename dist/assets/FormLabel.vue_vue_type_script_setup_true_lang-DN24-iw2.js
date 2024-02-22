@@ -1,1 +1,0 @@
-import{d as t,j as a,t as o,m as s}from"./index-Bf2cFNuv.js";const n={class:"mb-2 text-sm text-gray-600 select-none"},c=t({name:"FormLabel",__name:"FormLabel",props:{label:{default:""}},setup(r){return(e,l)=>(s(),a("div",n,o(e.label),1))}});export{c as _};
