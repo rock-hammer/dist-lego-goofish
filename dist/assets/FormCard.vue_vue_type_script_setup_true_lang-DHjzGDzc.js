@@ -1,0 +1,1 @@
+import{d as o,c as r,x as s,o as t}from"./index-BuBUc_eJ.js";const a={class:"p-4 bg-white rounded"},_=o({name:"FormCard",__name:"FormCard",setup(n){return(e,c)=>(t(),r("div",a,[s(e.$slots,"default")]))}});export{_};
