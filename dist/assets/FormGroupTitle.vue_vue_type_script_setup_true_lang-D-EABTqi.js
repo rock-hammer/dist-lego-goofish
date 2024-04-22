@@ -1,1 +1,0 @@
-import{d as o,c as t,x as s,o as n}from"./index-BuRWZSse.js";const r={class:"col-span-12 p-2 text-sm font-medium text-gray-800 select-none"},l=o({name:"FormGroupTitle",__name:"FormGroupTitle",setup(a){return(e,c)=>(n(),t("div",r,[s(e.$slots,"default")]))}});export{l as _};
